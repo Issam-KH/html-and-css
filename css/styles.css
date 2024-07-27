@@ -11,7 +11,7 @@ body{
 }
 .title{
     position:absolute;
-    color: #00ff2a;
+    color: #ffc963;
     top: 10px;
     left: 50px;
     right: 0;
@@ -41,7 +41,7 @@ body{
 
 .projects div {
     width: 300px;
-    background-color: rgba(255, 217, 0, 0.767);
+    background-color: rgba(0, 211, 148, 0.767);
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px 5px 60px 5px;
