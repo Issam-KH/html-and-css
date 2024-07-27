@@ -1,0 +1,37 @@
+.head {
+    display: flex;
+}
+.main {
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+}
+.photo {
+    width: 250px;
+    margin: 30px;
+    border-radius: 125px;
+    border: 2px solid gray ;
+}
+
+.profil {
+    width: 600px;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+.title {
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title2 {
+    max-width: 300px;
+    text-wrap:wrap;
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.desc {
+    font-size: medium;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

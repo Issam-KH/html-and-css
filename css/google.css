@@ -1,0 +1,108 @@
+body {
+    margin-left: 0;
+}
+.main {
+    display: block;
+    margin-top: 50px;
+}
+
+.googlelogo {
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    width: auto;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border:none;
+    margin-right: 20px;
+    
+}
+
+.buttons {
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+}
+
+.search {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 582px;
+    height: 46px;
+    border-radius: 24px;
+    margin-top: 20px;
+    border: 1px solid #dfe1e5;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-box {
+    width: 490px;
+    border:none;
+}
+
+.icon {
+    width: 20px;
+}
+
+
+.language {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.con {
+    display: flex;
+    justify-content: right;
+    margin-top: 30px;
+}
+
+.ref {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 200px;
+}
+
+.avatar{    
+    border-radius: 20px;
+}
+
+footer {
+    display: block;
+    background-color: #f2f2f2;
+    position: absolute;
+    bottom: 0;    
+    width: 97%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.foot {
+    display:flex;
+    justify-content:space-between;
+}
+
+.about {
+    display:flex;
+    width: 500px;
+    justify-content: space-around;
+}
+.privacy{
+    display:flex;
+    width: 200px;
+    justify-content: space-around;
+}
+
+.country {
+    border-bottom: 1px solid #a6a9ad;
+}

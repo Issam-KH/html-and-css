@@ -1,0 +1,24 @@
+.card {
+    display:flex;
+    width: 500px;
+    background-color: rgb(55, 218, 218);
+    justify-content: space-around;
+    padding: 15px 0;
+    margin: 40px auto;
+    border-radius: 15px;
+    border-right:4px solid rgb(0, 114, 134);
+    border-bottom:4px solid rgb(0, 114, 134);
+    font-family:cursive;
+}
+
+.photo {
+    width: 200px;
+    border-right:4px solid rgb(255, 130, 130);
+    border-bottom:4px solid rgb(255, 130, 130);
+    border-radius: 15px;
+}
+
+.info {
+    text-align: center;
+    
+}
