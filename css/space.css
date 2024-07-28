@@ -1,7 +1,7 @@
 body {
     text-align: center;
     color: white;
-    background-image: url(images/sky.jpg);
+    background-image: url(/html-and-css/images/sky.jpg);
     background-size: cover;
     font-family: "Orbitron", sans-serif;
     font-optical-sizing: auto;

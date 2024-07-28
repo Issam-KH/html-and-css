@@ -4,7 +4,7 @@ body{
 }
 .intro {
     padding: 200px;
-    background-image: url(images/html&css.jpg);
+    background-image: url(/html-and-css/images/html&css.jpg);
     background-size:cover;
     filter: blur(3px);
     border-bottom:5px solid #00ff2a;
@@ -78,14 +78,14 @@ button:hover {
 
 @font-face {
     font-family: youmurderer;
-    src: url(fonts/youmurdererbb_reg.ttf);
+    src: url(/html-and-css/fonts/youmurdererbb_reg.ttf);
 }
 
 @font-face {
     font-family:beyond-wonderland ;
-    src: url(fonts/Beyond\ Wonderland.ttf);
+    src: url(/html-and-css/fonts/Beyond\ Wonderland.ttf);
 }
 @font-face {
     font-family: flesh;
-    src: url(fonts/fofbb_reg.ttf);
+    src: url(/html-and-css/fonts/fofbb_reg.ttf);
 }
