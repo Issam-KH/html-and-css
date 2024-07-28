@@ -11,14 +11,17 @@ body{
 }
 .title{
     position:absolute;
-    color: #ffc963;
+    color: #fffb00;
     top: 10px;
-    left: 50px;
+    left: 100px;
     right: 0;
-    font-size:xxx-large;
+    text-align: center;
+    font-family: flesh;
+    letter-spacing: 10px;
+    font-size: 4rem;
 }
 .word {
-    font-size: 70px;
+    font-size: 6rem;
     font-weight:  bold;
 }
 
@@ -62,3 +65,27 @@ button:hover {
     background-color: #04AA6D;
     color: white;
   }
+
+.welcoming {
+    padding: 15px;
+    border-top: 2px solid rgb(82, 82, 82);
+    border-bottom: 2px solid rgb(82, 82, 82);
+    text-align: center;
+    font-size: 3rem;
+    font-family: youmurderer;
+    letter-spacing: 7px;
+}
+
+@font-face {
+    font-family: youmurderer;
+    src: url(/fonts/youmurdererbb_reg.ttf);
+}
+
+@font-face {
+    font-family:beyond-wonderland ;
+    src: url(/fonts/Beyond\ Wonderland.ttf);
+}
+@font-face {
+    font-family: flesh;
+    src: url(/fonts/fofbb_reg.ttf);
+}
